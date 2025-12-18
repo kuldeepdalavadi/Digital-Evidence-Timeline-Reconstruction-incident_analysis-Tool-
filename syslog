@@ -1,0 +1,5 @@
+Dec 18 08:00:15 server-01 kernel: [    0.000000] Linux version 5.15.0-generic (buildd@lcy02-amd64)
+Dec 18 08:05:22 server-01 systemd[1]: Started Daily Cleanup of Temporary Directories.
+Dec 18 09:30:01 server-01 CRON[2045]: (root) CMD ( /usr/local/bin/backup-script.sh )
+Dec 18 10:45:12 server-01 networkd[420]: eth0: link up, 1000Mbps, full-duplex
+Dec 18 11:12:00 server-01 rsyslogd: [origin software="rsyslogd" swVersion="8.2112.0" x-pid="480"] restart
