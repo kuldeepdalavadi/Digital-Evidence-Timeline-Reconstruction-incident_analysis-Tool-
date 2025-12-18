@@ -31,7 +31,7 @@ sudo apt install python3 git -y
 
 Clone the project repository:
 bash
-git clone https://github.com/USERNAME/Digital-Evidence-Timeline-Reconstruction.git
+git clone https://github.com/kuldeepdalavadi/Digital-Evidence-Timeline-Reconstruction.git
 cd Digital-Evidence-Timeline-Reconstruction
 
 Ensure Python is installed:
